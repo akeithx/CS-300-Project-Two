@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\akeit\source\repos\ProjectTwoCS300\Source.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akeit\source\repos\ProjectTwoCS300\Source.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\akeit\source\repos\ProjectTwoCS300\Source.cpp(63,6): warning C4101: 'commmas': unreferenced local variable
+  ProjectTwoCS300.vcxproj -> C:\Users\akeit\source\repos\ProjectTwoCS300\Debug\ProjectTwoCS300.exe
